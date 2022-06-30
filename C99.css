@@ -1,0 +1,43 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+img {
+    box-shadow: 0 6px 8px 0 rgb(2, 2, 2, 0.2);
+    width:37%;
+    height: 100px;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+body{
+    background: blue;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:oblique;
+    font-weight:100;
+}
+h4{
+    font-family:'Agency FB';
+    font-style:unset;
+    font:400;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+}
+.column{
+    display:inline;
+    padding:10px;
+}
